@@ -8,4 +8,6 @@
 * belsasejeloe@outlook.com   PoYT6KHt
 * tbokolbilu@outlook.com  08lJ0pky
 
+[公众号er'wei'ma](https://www.ruancc.com/static/erweima.jpg)
+
 大家可以试下![打个广告](https://www.ruancc.com/static/guanggao.jpg)
