@@ -1,5 +1,5 @@
 ## Welcome to the chatgpt-plus wiki!
-## 本人开发了一个公众号，能直接使用chatgpt-plus ,每天免费20个聊天额度。一天轻度使用基本够了。
+## 本人开发了一个公众号，能直接使用chatgpt-plus ,每天免费20个聊天额度。一天轻度使用基本够了。另外可以代充PLUS 
 ## 并且支持sse和官方的markdown格式。比turbo-api回答的好。
 
 
