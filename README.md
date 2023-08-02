@@ -11,4 +11,6 @@
 #  微信关注公众号
 ![打个广告](https://public-diger.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_250043da68ed_344.jpg)
 
-大家可以试下! [打个广告](https://public-diger.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_250043da68ed_344.jpg)
+# GPT4.0 额度低价转卖。1：1 即 1元可以使用1美金的4.0额度。超低价折扣。联系客服。
+
+![客服](https://work.weixin.qq.com/kfid/kfc007642fe843ee61a)
