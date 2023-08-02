@@ -9,6 +9,6 @@
 * tbokolbilu@outlook.com  08lJ0pky
 
 #  微信关注公众号
-![打个广告]([https://www.ruancc.com/static/erweima.jpg](https://public-diger.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_250043da68ed_344.jpg)](https://public-diger.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_250043da68ed_344.jpg)https://public-diger.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_250043da68ed_344.jpg)
+![打个广告](https://public-diger.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_250043da68ed_344.jpg)
 
-大家可以试下![打个广告]([[https://www.ruancc.com/static/guanggao.jpg](https://public-diger.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_250043da68ed_344.jpg)](https://public-diger.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_250043da68ed_344.jpg)https://public-diger.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_250043da68ed_344.jpg)
+大家可以试下! [打个广告](https://public-diger.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_250043da68ed_344.jpg)
