@@ -1,11 +1,7 @@
 ## Welcome to the chatgpt-plus wiki!
-## 本人开发了一个公众号，能直接使用chatgpt-plus ,每天免费20个聊天额度。一天轻度使用基本够了。另外可以代充PLUS 
+## 代充PLUS  /购买大额API （5000美金 5000RMB即可购买，2500美金账户 2000） 联系公众号，客服
 ## 套壳网站 ： https://www.ruancc.com  免费使用GPT
 
-提供三个免费账号：
-* shobujhbibats@outlook.com   O2zvhpQk
-* belsasejeloe@outlook.com   PoYT6KHt
-* tbokolbilu@outlook.com  08lJ0pky
 
 #  微信关注公众号
 ![打个广告](https://public-diger.oss-cn-beijing.aliyuncs.com/qrcode_for_gh_250043da68ed_344.jpg)
